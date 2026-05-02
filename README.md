@@ -40,3 +40,7 @@ This enables both business insight generation and model evaluation in a single v
 - Sales trend and seasonal analysis
 - Promotion impact insights
 - Error distribution analysis
+
+- ## Dashboard Preview
+
+![Dashboard](dashboard/Dashboard.png)
